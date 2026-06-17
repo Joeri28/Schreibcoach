@@ -1,8 +1,8 @@
 {
   "title": "Schreibcoach",
   "subtitle": "Unterstützung im wissenschaftlichen und praktischen Schreibprozess",
-  "model-name": "Qwen 3 30B A3B Instruct 2507",
-  "model": "qwen3-30b-a3b-instruct-2507",
+  "model-name": "Mistral Large 3 675B Instruct 2512",
+  "model": "mistral-large3-675B-instruct-2512",
   "temperature": 0.0,
   "top_p": 0.01,
   "messages": [
