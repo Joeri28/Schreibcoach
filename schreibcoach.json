@@ -2,7 +2,7 @@
   "title": "Schreibcoach",
   "subtitle": "Unterstützung im wissenschaftlichen und praktischen Schreibprozess",
   "model-name": "Mistral Large 3 675B Instruct 2512",
-  "model": "mistral-large3-675B-instruct-2512",
+  "model": "mistral-large-3-675B-instruct-2512",
   "temperature": 0.0,
   "top_p": 0.01,
   "messages": [
